@@ -1,2 +1,2 @@
 # People-Counter-with-FaceDetection
-People counter using Face Detection for Raspberry Pi using CSI Camera Module and Ultrasonic Sensor
+People counter using Face Detection for Raspberry Pi using CSI Camera Module and Ultrasonic Sensor and upload database to Firebase
