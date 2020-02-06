@@ -1,7 +1,7 @@
 from firebase import firebase
  
  
-firebase = firebase.FirebaseApplication('https://face-detect-7091d.firebaseio.com/', None)
+firebase = firebase.FirebaseApplication('Enter your Firebase Auth', None)
 data =  { 'Name': 'John Doe',
           'RollNo': 3,
           'Percentage': 70.02
